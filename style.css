@@ -54,15 +54,16 @@ line-height: normal;
     height: 60px;
     text-align: center;
     color: rgba(39, 39, 39, 0.60);
-    display: flex;
     font-size: 18px;
 
 }
 .pink-flower{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 0%;
     padding: 30px 240px;
     text-align: center;
+    align-items: center;
 
 }
 .box1{
@@ -99,4 +100,46 @@ line-height: normal;
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+}
+.hot-deal{
+    width: 1920px;
+    height: 620px;
+    display: flex;
+ background: rgba(229, 84, 115, 0.05);
+ margin: 125px 0px;
+ padding: 10px 420px;
+}
+.flower-btl{
+    padding: 100px 0px 0px 150px;
+}
+span{
+    color:  #E55473;
+}
+.off{
+    padding-top: 230px;
+    color: #272727;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+
+}
+.p3{
+width: 594px;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+margin-bottom: 30px;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.btn2{
+    color: #FFF;
+    padding: 20px 45px;
+    margin-left: 185px;
+font-size: 20px;
+font-weight: 700;
+border-radius: 8px;
+background: #E55473;
+border-style: none;
 }
