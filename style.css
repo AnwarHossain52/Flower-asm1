@@ -62,7 +62,7 @@ line-height: normal;
 }
 .pink-flower{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 0%;
     padding: 30px 240px;
     text-align: center;
@@ -72,7 +72,6 @@ line-height: normal;
 .box1{
     width: 464px;
     height: 538px;
-   
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 
@@ -165,3 +164,42 @@ border-style: none;
    text-align: center;
 
 }
+.submit{
+    padding: 100px;
+    width: 1435px;
+    height: 445px;
+   text-align: center;   
+}
+.contact{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.p5{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+.email{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+}
+.submit{
+    width: 80%;
+    margin: 0 auto;
+    height: 449px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:url(Rectangle\ 9.png)
+    
+}
+
+
