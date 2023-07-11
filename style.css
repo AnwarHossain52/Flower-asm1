@@ -40,3 +40,63 @@ border-style: none ;
 border-radius: 8px;
 background: #E55473;
 }
+.Featured-Flowers{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+padding-top: 175px;
+line-height: normal;
+}
+.p2{
+    width: 595px;
+    height: 60px;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    display: flex;
+    font-size: 18px;
+
+}
+.pink-flower{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 240px;
+    text-align: center;
+
+}
+.box1{
+    width: 464px;
+    height: 538px;
+   
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.box2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+.box3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+.img{
+    padding: 0px 35px;
+    margin: 0px 5px;
+}
+.box-title{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
