@@ -12,6 +12,9 @@ padding: 0;
     height: 850;
     background-color:rgba(229, 84, 115, 0.10);
 }
+.section2{
+    text-align: center;
+}
 
 .flower1{
     width: 635px;
@@ -49,7 +52,7 @@ font-weight: 800;
 padding-top: 175px;
 line-height: normal;
 }
-.p2{
+.p2{margin-left: 650px;
     width: 595px;
     height: 60px;
     text-align: center;
@@ -142,4 +145,23 @@ font-weight: 700;
 border-radius: 8px;
 background: #E55473;
 border-style: none;
+}
+.instragram{
+    margin-top: 50px;
+    text-align: center;
+}
+.p4{
+    color: rgba(75, 66, 66, 0.6);
+    font-size: 15px;
+    padding: 15px;
+}
+.jpgimage{
+    display: flex;
+    width: 340p;
+    height: 395px;
+    margin: 20px 240px ;
+    text-decoration:;
+   justify-content: space-between;
+   text-align: center;
+
 }
