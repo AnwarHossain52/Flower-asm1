@@ -1,0 +1,42 @@
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+margin: 0;
+padding: 0;
+}
+.section1{
+    padding: 0 240px;
+    display: flex;
+    width: 1915;
+    height: 850;
+    background-color:rgba(229, 84, 115, 0.10);
+}
+
+.flower1{
+    width: 635px;
+    height: 800px;
+    padding-top: 50px;
+}
+.hero-title{
+    display: flex;
+    margin-top: 195px;
+width: 708px;
+color: #272727;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+
+}
+.p1{
+    padding: 30px 0px;
+}
+.btn{
+width: 175px;
+height: 65px;
+font-size: 20px;
+color: white;
+border-style: none ;
+border-radius: 8px;
+background: #E55473;
+}
